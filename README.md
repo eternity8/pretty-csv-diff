@@ -14,7 +14,7 @@
 To install `pretty-csv-diff`, clone the repository and run the setup script:
 
 ```bash
-git clone https://github.com/your-repository/pretty-csv-diff.git
+git clone https://github.com/k4u5hik/pretty-csv-diff.git
 cd pretty-csv-diff
 pip install .
 ```
