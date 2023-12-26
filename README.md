@@ -19,10 +19,6 @@ cd pretty-csv-diff
 pip install .
 ```
 
-## Command-Line Example
-
-![](screenshot.png)
-
 ## Usage
 
 The basic command-line syntax for `pretty-csv-diff` is:
@@ -43,6 +39,11 @@ pretty-csv-diff old.csv new.csv id
 ```
 
 This will output the differences between the two files in your terminal, with `<` indicating rows that are only in `old.csv` and `>` indicating rows that are only in `new.csv`. Rows present in both files but with differences will be shown side by side for comparison.
+
+## Command-Line Example Screenshot
+
+![](screenshot.png)
+
 
 ## Command-Line Usage
 
