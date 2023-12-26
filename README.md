@@ -62,3 +62,8 @@ optional arguments:
 ## Contributing
 
 Contributions to `pretty-csv-diff` are welcome.
+
+## License
+
+`pretty-csv-diff` is released under the Apache License, Version 2.0 (January 2004). See the [LICENSE]([https://link-to-your-license](https://www.apache.org/licenses/LICENSE-2.0)https://www.apache.org/licenses/LICENSE-2.0) file for more details.
+
