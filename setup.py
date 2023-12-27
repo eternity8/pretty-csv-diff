@@ -15,7 +15,7 @@ setup(
     name='pretty-csv-diff',  # Name of the package.
     long_description=long_description,  # Long description read from README.md.
     long_description_content_type='text/markdown',  # Specifying the format of the long description.
-    url='https://github.com/telnet23/pretty-csv-diff',  # URL of the project's homepage.
+    url='https://github.com/k4u5hik/pretty-csv-diff',  # URL of the project's homepage.
     license='Apache License 2.0',  # License type for the package.
     use_scm_version=True,  # Enabling the use of setuptools_scm for versioning.
     setup_requires=[
