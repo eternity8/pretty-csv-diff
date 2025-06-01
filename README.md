@@ -14,7 +14,7 @@
 To install `pretty-csv-diff`, clone the repository and run the setup script:
 
 ```bash
-git clone https://github.com/k4u5hik/pretty-csv-diff.git
+git clone https://github.com/eternity8/pretty-csv-diff.git
 cd pretty-csv-diff
 pip install .
 ```
@@ -44,7 +44,6 @@ This will output the differences between the two files in your terminal, with `<
 
 ![](screenshot.png)
 
-
 ## Command-Line Usage
 
 ```
@@ -65,5 +64,4 @@ Contributions to `pretty-csv-diff` are welcome.
 
 ## License
 
-`pretty-csv-diff` is released under the Apache License, Version 2.0 (January 2004). See the [LICENSE]([https://link-to-your-license](https://www.apache.org/licenses/LICENSE-2.0)https://www.apache.org/licenses/LICENSE-2.0) file for more details.
-
+`pretty-csv-diff` is released under the Apache License, Version 2.0 (January 2004). See the [LICENSE](<[https://link-to-your-license](https://www.apache.org/licenses/LICENSE-2.0)https://www.apache.org/licenses/LICENSE-2.0>) file for more details.
