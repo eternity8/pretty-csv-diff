@@ -92,6 +92,10 @@ class PrettyCsvDiff:
         all_rows_a = [self._meta_a["_header"]] + self._data_a
         all_rows_b = [self._meta_b["_header"]] + self._data_b
 
+        # Ensure header is always printed
+        if self._meta_a["_header"] == self._meta_b["_header"]:
+            yield self._formatted(" ", self._meta_b["_header"])
+
         while i < len(all_rows_a) or j < len(all_rows_b):
             row_a = all_rows_a[i]
             row_b = all_rows_b[j]

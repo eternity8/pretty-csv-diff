@@ -18,10 +18,7 @@ setup(
     long_description_content_type="text/markdown",  # Specifying the format of the long description.
     url="https://github.com/eternity8/pretty-csv-diff",  # URL of the project's homepage.
     license="Apache License 2.0",  # License type for the package.
-    use_scm_version=True,  # Enabling the use of setuptools_scm for versioning.
-    setup_requires=[
-        "setuptools_scm",  # Dependency required for setuptools_scm to work.
-    ],
+    version="0.1.1",
     packages=[
         "pretty_csv_diff",  # List of all packages that are part of this distribution.
     ],
